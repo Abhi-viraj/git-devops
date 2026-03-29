@@ -1,7 +1,9 @@
 #!/bin/bash
 #
-#Addtition of two number
 #Author: Abhinav Kunar
+#
+#App name: Calculator
+#
 ############################
 #
 echo "Enter the number for Addition"
@@ -34,8 +36,6 @@ read num2
 num3=$((num1/num2))
 echo "Division is $num3"
 
-
-echo "Testing the braching method"
 
 echo "Enter the number for Subtraction"
 
