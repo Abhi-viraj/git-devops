@@ -5,13 +5,13 @@
 #
 ###############
 
-for i={1..100}
+for i in {1..100}
 do
 if (( i % 2 == 0 ))
 then
-	echo "number is even"
+	echo "$i, number is even"
 else
-	echo "number is oddd"
+	echo "$i, number is odd"
 fi
 done
 
