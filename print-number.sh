@@ -1,7 +1,7 @@
 #!/bin/bash
-#Author:
+#Author: Abhinav Kumar
 #
-#App name:
+#Sub: Print all Odd & Even number from 1 to 100. 
 #
 ###############
 
